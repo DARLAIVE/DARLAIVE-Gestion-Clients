@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{D4A85B93-E9C2-4798-B064-FB21BD3FC36B}" Name="BDD_Gestion-Clients" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="BDD_Gestion-Clients.mcd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
